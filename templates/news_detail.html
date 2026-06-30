@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ news.title }} | News Portal
+{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <article class="mx-auto" style="max-width: 800px;">
+        <a href="{% url 'category' news.category.slug %}" class="badge text-bg-primary text-decoration-none mb-3">
+            {{ news.category.name }}
+        </a>
+
+        <h1 class="display-5 fw-bold mb-3">
+            {{ news.title }}
+        </h1>
+
+        <p class="text-body-secondary mb-4">
+            {{ news.published_at|date:"d.m.Y H:i" }}
+        </p>
+
+        <hr>
+
+        <div class="mt-4">
+            <p>{{ news.content|linebreaks }}</p>
+        </div>
+
+        <div class="mt-5">
+            <a href="{% url 'home' %}" class="btn btn-outline-primary">
+                ← Back to Home
+            </a>
+        </div>
+    </article>
+</div>
+{% endblock %}

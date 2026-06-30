@@ -1,0 +1,10 @@
+from django.urls import path
+
+from . import views
+
+urlpatterns = [
+    path('', views.home_page, name='home'),
+    path('contact/', views.contact_page, name='contact'),
+    path('news/<int:pk>/', views.NewsDetailView.as_view(), name='news_detail'),
+    path('category/<slug:slug>/', views.CategoryNewsView.as_view(), name='category'),
+]
