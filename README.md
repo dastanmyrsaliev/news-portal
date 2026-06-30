@@ -13,6 +13,8 @@
   <h3 align="center">News Portal</h3>
 
   <p align="center">
+    News portal built with Python, Django, PostgreSQL, Bootstrap, Docker and uv
+    <br />
     <br />
     <a href="https://github.com/dastanmyrsaliev/qr-code-component/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
   </p>
@@ -56,6 +58,7 @@ News portal on Django.
 - [![Python][Python]][Python-url]
 - [![Django][Django]][Django-url]
 - [![Postgres][Postgres]][Postgres-url]
+- [![Bootstrap][Bootstrap]][Bootstrap-url]
 - [![Docker][Docker]][Docker-url]
 - [![uv][uv]][uv-url]
 
@@ -183,6 +186,8 @@ Project Link: [https://github.com/dastanmyrsaliev/news-portal](https://github.co
 [Django-url]: https://www.djangoproject.com/
 [Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org/
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff
+[Bootstrap-url]: https://getbootstrap.com/
 [Docker]: https://img.shields.io/badge/docker-257bd6.svg?logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [uv]: https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9
