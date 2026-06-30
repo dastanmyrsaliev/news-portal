@@ -55,12 +55,15 @@ News portal on Django.
 
 ### Built With
 
-- [![Python][Python]][Python-url]
-- [![Django][Django]][Django-url]
-- [![Postgres][Postgres]][Postgres-url]
-- [![Bootstrap][Bootstrap]][Bootstrap-url]
-- [![Docker][Docker]][Docker-url]
-- [![uv][uv]][uv-url]
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" alt="Django"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker"></a>
+  <a href="https://docs.astral.sh/uv/"><img src="https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=fff&style=for-the-badge" alt="uv"></a>
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +166,7 @@ Project Link: [https://github.com/dastanmyrsaliev/news-portal](https://github.co
 ## Acknowledgments
 
 - [Best-Readme-Template](https://github.com/othneildrew/Best-README-Template)
-- [md-badges](https://github.com/inttter/md-badges)
+- [Simple Badges](https://badges.pages.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,15 +183,3 @@ Project Link: [https://github.com/dastanmyrsaliev/news-portal](https://github.co
 [issues-url]: https://github.com/dastanmyrsaliev/news-portal/issues
 [license-shield]: https://img.shields.io/github/license/dastanmyrsaliev/news-portal.svg?style=for-the-badge
 [license-url]: https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE
-[Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
-[Python-url]: https://www.python.org/
-[Django]: https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white
-[Django-url]: https://www.djangoproject.com/
-[Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
-[Postgres-url]: https://www.postgresql.org/
-[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff
-[Bootstrap-url]: https://getbootstrap.com/
-[Docker]: https://img.shields.io/badge/docker-257bd6.svg?logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[uv]: https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9
-[uv-url]: https://docs.astral.sh/uv/
