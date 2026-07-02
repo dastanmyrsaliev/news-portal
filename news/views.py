@@ -1,7 +1,8 @@
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, redirect
 from django.views.generic import DetailView, ListView
 
 from .models import Category, News
+from .forms import CategoryForm, NewsForm
 
 
 def home_page(request):
@@ -38,3 +39,27 @@ class NewsDetailView(DetailView):
     model = News
     template_name = 'news_detail.html'
     context_object_name = 'news'
+
+
+def create_category(request):
+    if request.method == 'POST':
+        form = CategoryForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('home')
+    else:
+        form = CategoryForm()
+
+    return render(request, 'category_create.html', {'form': form})
+
+
+def create_news(request):
+    if request.method == 'POST':
+        form = NewsForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('home')
+    else:
+        form = NewsForm()
+
+    return render(request, 'news_create.html', {'form': form})
