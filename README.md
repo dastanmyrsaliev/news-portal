@@ -1,22 +1,12 @@
 <a id="readme-top"></a>
 
-<div align="center">
-  <a href="https://github.com/dastanmyrsaliev/news-portal/graphs/contributors" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/contributors/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Contributors">
-  </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/network/members" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/forks/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Forks">
-  </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/stargazers" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/stars/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Stargazers">
-  </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/issues" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/issues/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Issues">
-  </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/license/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="MIT License">
-  </a>
-</div>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -164,3 +154,17 @@ Project Link: [https://github.com/dastanmyrsaliev/news-portal](https://github.co
 
 - [Best-Readme-Template](https://github.com/othneildrew/Best-README-Template)
 - [Simple Badges](https://badges.pages.dev/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/dastanmyrsaliev/news-portal.svg?style=for-the-badge
+[contributors-url]: https://github.com/dastanmyrsaliev/news-portal/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dastanmyrsaliev/news-portal.svg?style=for-the-badge
+[forks-url]: https://github.com/dastanmyrsaliev/news-portal/network/members
+[stars-shield]: https://img.shields.io/github/stars/dastanmyrsaliev/news-portal.svg?style=for-the-badge
+[stars-url]: https://github.com/dastanmyrsaliev/news-portal/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dastanmyrsaliev/news-portal.svg?style=for-the-badge
+[issues-url]: https://github.com/dastanmyrsaliev/news-portal/issues
+[license-shield]: https://img.shields.io/github/license/dastanmyrsaliev/news-portal.svg?style=for-the-badge
+[license-url]: https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE
