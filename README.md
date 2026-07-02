@@ -1,19 +1,19 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/dastanmyrsaliev/news-portal/graphs/contributors">
+  <a href="https://github.com/dastanmyrsaliev/news-portal/graphs/contributors" style="text-decoration: none;">
     <img src="https://img.shields.io/github/contributors/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Contributors">
   </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/network/members">
+  <a href="https://github.com/dastanmyrsaliev/news-portal/network/members" style="text-decoration: none;">
     <img src="https://img.shields.io/github/forks/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Forks">
   </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/stargazers">
+  <a href="https://github.com/dastanmyrsaliev/news-portal/stargazers" style="text-decoration: none;">
     <img src="https://img.shields.io/github/stars/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Stargazers">
   </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/issues">
+  <a href="https://github.com/dastanmyrsaliev/news-portal/issues" style="text-decoration: none;">
     <img src="https://img.shields.io/github/issues/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Issues">
   </a>
-  <a href="https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE">
+  <a href="https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE" style="text-decoration: none;">
     <img src="https://img.shields.io/github/license/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="MIT License">
   </a>
 </div>
