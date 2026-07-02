@@ -1,10 +1,22 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<div align="center">
+  <a href="https://github.com/dastanmyrsaliev/news-portal/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Contributors">
+  </a>
+  <a href="https://github.com/dastanmyrsaliev/news-portal/network/members">
+    <img src="https://img.shields.io/github/forks/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Forks">
+  </a>
+  <a href="https://github.com/dastanmyrsaliev/news-portal/stargazers">
+    <img src="https://img.shields.io/github/stars/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Stargazers">
+  </a>
+  <a href="https://github.com/dastanmyrsaliev/news-portal/issues">
+    <img src="https://img.shields.io/github/issues/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/dastanmyrsaliev/news-portal.svg?style=for-the-badge" alt="MIT License">
+  </a>
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -16,7 +28,7 @@
     News portal built with Python, Django, PostgreSQL, Bootstrap, Docker and uv
     <br />
     <br />
-    <a href="https://github.com/dastanmyrsaliev/qr-code-component/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dastanmyrsaliev/news-portal/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
   </p>
 </div>
 
@@ -51,8 +63,6 @@
 
 News portal on Django.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 <p align="center">
@@ -63,9 +73,6 @@ News portal on Django.
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker"></a>
   <a href="https://docs.astral.sh/uv/"><img src="https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=fff&style=for-the-badge" alt="uv"></a>
 </p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -106,8 +113,6 @@ News portal on Django.
     uv run python manage.py migrate
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
@@ -117,8 +122,6 @@ Open the terminal and enter the command:
 ```sh
 uv run python manage.py runserver
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -141,15 +144,11 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=dastanmyrsaliev/news-portal" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -159,27 +158,9 @@ Dastan - [@myrsaliev_dev](https://t.me/myrsaliev_d) - myrsaliev.dev@gmail.com
 
 Project Link: [https://github.com/dastanmyrsaliev/news-portal](https://github.com/dastanmyrsaliev/news-portal)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
 - [Best-Readme-Template](https://github.com/othneildrew/Best-README-Template)
 - [Simple Badges](https://badges.pages.dev/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/dastanmyrsaliev/news-portal.svg?style=for-the-badge
-[contributors-url]: https://github.com/dastanmyrsaliev/news-portal/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dastanmyrsaliev/news-portal.svg?style=for-the-badge
-[forks-url]: https://github.com/dastanmyrsaliev/news-portal/network/members
-[stars-shield]: https://img.shields.io/github/stars/dastanmyrsaliev/news-portal.svg?style=for-the-badge
-[stars-url]: https://github.com/dastanmyrsaliev/news-portal/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dastanmyrsaliev/news-portal.svg?style=for-the-badge
-[issues-url]: https://github.com/dastanmyrsaliev/news-portal/issues
-[license-shield]: https://img.shields.io/github/license/dastanmyrsaliev/news-portal.svg?style=for-the-badge
-[license-url]: https://github.com/dastanmyrsaliev/news-portal/blob/main/LICENSE
